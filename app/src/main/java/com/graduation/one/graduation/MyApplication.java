@@ -1,4 +1,3 @@
-package com.graduation.one.graduation;
 
 import android.app.Application;
 import android.content.Context;
